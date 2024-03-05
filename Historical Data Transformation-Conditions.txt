@@ -1,0 +1,9 @@
+Historical Data Transformation
+
+Assumptions made by me during this project:
+All date values are in a consistent format.
+The input CSV file has no duplicate records.
+Missing data in a record should be filled with the most recent past record's values.
+Employee identifiers are unique and consistent.
+Fields without associated dates (unchanged values) remain constant across different records.
+
